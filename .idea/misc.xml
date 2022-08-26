@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/circular_progress_gray.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/ic_action_done.xml" value="0.264" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.2703125" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/drawable/item_color_circular_thin_accent_border.xml" value="1.1142857142857143" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/activity_bmiactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/activity_excercise.xml" value="0.264" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/activity_finish.xml" value="0.264" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/item_exercise_etatus.xml" value="0.6" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/layout/item_exercise_status.xml" value="0.25416666666666665" />
+        <entry key="..\:/Vivek/impotant/7MinuteWorkout/app/src/main/res/xml/network_security_config.xml" value="0.11510416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
