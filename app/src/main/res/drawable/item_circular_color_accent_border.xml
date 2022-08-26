@@ -6,4 +6,5 @@
         android:color="@color/Accent"/>
 
     <solid android:color="@color/white"/>
+
 </shape>

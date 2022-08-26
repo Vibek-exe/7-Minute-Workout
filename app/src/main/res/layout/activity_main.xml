@@ -11,8 +11,7 @@
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
         android:orientation="vertical"
-        android:padding="@dimen/Main_Screen_Main_Layout_padding"
-        >
+        android:padding="@dimen/Main_Screen_Main_Layout_padding">
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="@dimen/Main_Screen_Image_Height"
@@ -24,15 +23,13 @@
             android:layout_height="@dimen/Start_Button_Size"
             android:layout_marginTop="@dimen/Start_Button_Margin_Top"
             android:gravity="center"
-            android:background="@drawable/item_circular_color_accent_border"
-            >
+            android:background="@drawable/item_circular_color_accent_border">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/str_start"
                 android:textColor="@color/black"
-                android:textSize="@dimen/Start_Button_Lable_Text_Size"
-                />
+                android:textSize="@dimen/Start_Button_Lable_Text_Size" />
 
         </LinearLayout>
 
