@@ -1,6 +1,7 @@
 # 7-Minute-Workout
 
-
+7 Min Workout App is a the fast, simple way to work out anytime.
+After finishing the workout the date of the exercise stored in history activity.
 
 
 ## Exercise Activity
@@ -14,7 +15,13 @@ https://user-images.githubusercontent.com/78261707/187067410-9b5bc563-ec21-431d-
 
 * The body mass index (BMI) is a measure that uses your height and weight to work out if your weight is healthy.
 * The BMI calculation divides an adult's weight in kilograms by their height in metres squared. For example, A BMI of 25 means 25kg/m2.
- https://user-images.githubusercontent.com/78261707/187067416-98d34549-eaf8-4c11-bfaf-42178f38155a.mp4
+
+
+
+https://user-images.githubusercontent.com/78261707/187067752-8240c444-d806-4bd3-a9ea-99128560d2ff.mp4
+
+
+
 
 ### BMI ranges
 * below 18.5 – you're in the underweight range
